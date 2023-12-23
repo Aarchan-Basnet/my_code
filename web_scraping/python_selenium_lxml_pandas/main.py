@@ -88,7 +88,7 @@ def clean_data(data):
 
     df.iloc[:, 9] = df.iloc[:, 9].astype(str) + df.iloc[:, 10].astype(str)
     df.drop(df.columns[10], axis=1, inplace=True)
-    df.to_csv("nepalstock_today.csv")
+    df.to_csv("nepalstock_today.csv", index=False)
     cleaned_data = df.values.tolist()
 
     return cleaned_data
