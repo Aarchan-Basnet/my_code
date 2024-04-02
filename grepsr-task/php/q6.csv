@@ -1,0 +1,85 @@
+Name,"Install Instruction","Release Date",Description,Author
+"
+        dsame3-simple 0.0.1
+      ","pip install dsame3-simple",2024-04-02T16:19:40+0000,"Simplified version of dsame3 to decode EAS SAME messages to readable text.","Joseph W. Metcalf, James Kitchens"
+"
+        ccxt 4.2.88
+      ","pip install ccxt",2024-04-02T16:18:38+0000,"A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading library with support for 100+ exchanges","Igor Kroitor"
+"
+        facebook-graphql-scraper 0.1
+      ","pip install facebook-graphql-scraper",2024-04-02T16:14:19+0000,"Implement Facebook scraper for post data retrieval",FaustRen
+"
+        modnet 0.4.2
+      ","pip install modnet",2024-04-02T16:01:18+0000,"MODNet, the Material Optimal Descriptor Network for materials properties prediction.","Pierre-Paul De Breuck"
+"
+        python-ulid 2.4.0.post0
+      ","pip install python-ulid",2024-04-02T15:49:03+0000,"Universally unique lexicographically sortable identifier","Martin Domke"
+"
+        macrosynergy 0.1.11
+      ","pip install macrosynergy",2024-04-02T15:41:22+0000,"Macrosynergy Quant Research Package",Macrosynergy
+"
+        dploot 2.7.0
+      ","pip install dploot",2024-04-02T15:40:44+0000,"DPAPI looting remotely in Python",zblurx
+"
+        ethpm-types 0.6.8
+      ","pip install ethpm-types",2024-04-02T15:32:15+0000,"ethpm_types: Implementation of EIP-2678","ApeWorX Ltd."
+"
+        margarine 1.2.8
+      ","pip install margarine",2024-04-02T15:31:47+0000,"margarine: Posterior Sampling and Marginal Bayesian Statistics","Harry T. J. Bevins"
+"
+        playback-studio 0.3.22
+      ","pip install playback-studio",2024-04-02T15:20:41+0000,"Record your service operations in production and replay them locally at any time in a sandbox",Optibus
+"
+        reversinglabs-sdk-py3 2.5.1
+      ","pip install reversinglabs-sdk-py3",2024-04-02T15:20:25+0000,"Python SDK for using ReversingLabs services.",ReversingLabs
+"
+        whenever 0.5.1
+      ","pip install whenever",2024-04-02T15:18:44+0000,"Sensible and typesafe datetimes","Arie Bovenberg"
+"
+        akshare 1.13.17
+      ","pip install akshare",2024-04-02T15:17:55+0000,"AKShare is an elegant and simple financial data interface library for Python, built for human beings!",AKFamily
+"
+        comiccrawler 2024.4.2
+      ","pip install comiccrawler",2024-04-02T15:12:43+0000,"An image crawler, including multiple modules and GUI.",eight
+"
+        odoo-addon-web-timeline 16.0.1.1.0
+      ","pip install odoo-addon-web-timeline",2024-04-02T14:54:46+0000,"Interactive visualization chart to show events in time","ACSONE SA/NV, Tecnativa, Monk Software, Onestein, Trobz, Odoo Community Association (OCA)"
+"
+        mcrit 1.3.14
+      ","pip install mcrit",2024-04-02T14:41:42+0000,"MCRIT is a framework created for simplified application of the MinHash algorithm to code similarity.","Daniel Plohmann, Manuel Blatt, Steffen Enders, Paul Hordiienko"
+"
+        pyorchestra 0.4.1
+      ","pip install pyorchestra",2024-04-02T14:27:48+0000,"Orchestra is a job scheduler on top of Celery","András Vidosits"
+"
+        llama-cpp-python-cross 0.2.58
+      ","pip install llama-cpp-python-cross",2024-04-02T14:15:08+0000,"Python bindings for the llama.cpp library","Andrei Betlen"
+"
+        special-octo-robot 0
+      ","pip install special-octo-robot",2024-04-02T13:57:28+0000,"Creating my own version of what a CLI Task manager and To-do-list would look like","Jahan Chaware"
+"
+        gnsstoolbox 1.2.15
+      ","pip install gnsstoolbox",2024-04-02T13:30:33+0000,"Python GNSS processing package","Jacques Beilin"
+"
+        freegenius 0.0.58
+      ","pip install freegenius",2024-04-02T13:23:34+0000,"FreeGenius AI, an advanced AI assistant, leveraging the capabilities of ChatGPT API, Gemini Pro and AutoGen, capable of engaging in conversations, executing codes with auto-healing, and assisting you with a wide range of tasks on your local devices.","Eliran Wong"
+"
+        flask-monocrud 0.0.1rc32
+      ","pip install flask-monocrud",2024-04-02T13:18:50+0000,"Package provides utilities for managing fixture data python applications. It offers a convenient way to populate database tables with predefined data.","Jarriq Rolle"
+"
+        ansar-connect 0.1.124
+      ","pip install ansar-connect",2024-04-02T13:11:12+0000,"Tools and runtime for asynchronous programming","Scott Woods"
+"
+        rpaframework 28.4.2
+      ","pip install rpaframework",2024-04-02T13:03:48+0000,"A collection of tools and libraries for RPA","RPA Framework"
+"
+        edumfa 1.5.0
+      ","pip install edumfa",2024-04-02T12:58:02+0000,"eduMFA: identity, multifactor authentication (OTP), authorization, audit",edumfa.io
+"
+        anomeda 0.1.2
+      ","pip install anomeda",2024-04-02T12:56:19+0000,"Python package which helps to identify important metric changes and quickly find clusters in data which changed the trend of the metric or caused the anomaly","Anton Saroka"
+"
+        biomero 1.7.0
+      ","pip install biomero",2024-04-02T12:56:01+0000,"A python library for easy connecting between OMERO (jobs) and a Slurm cluster","Core Facility - Cellular Imaging"
+"
+        tranco 0.8.1
+      ","pip install tranco",2024-04-02T12:50:16+0000,"Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation","Victor Le Pochat"
